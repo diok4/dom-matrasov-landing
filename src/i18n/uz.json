@@ -1,0 +1,233 @@
+{
+  "nav": {
+    "home": "Bosh sahifa",
+    "about": "Biz haqimizda",
+    "delivery": "Yetkazib berish",
+    "contacts": "Kontaktlar",
+    "order": "Buyurtma berish",
+    "choose": "Matrasni qanday tanlash"
+  },
+  "footer": {
+    "title": "Matraslar Uyi",
+    "subtitle": "Sizning uyqungiz uchun eng qulay matraslar.",
+    "rights": "Matraslar Uyi. Barcha huquqlar himoyalangan."
+  },
+  "contact": {
+    "title": "Biz bilan bog‘laning",
+    "infoTitle": "Aloqa ma’lumotlari",
+    "address": "Mirabad 33, Toshkent, O‘zbekiston",
+    "name": "Ism",
+    "phone": "Telefon",
+    "message": "Xabar",
+    "send": "Xabar yuborish"
+  },
+
+  "why": {
+    "title": "Nega aynan Dom Matrasov?",
+    "features": {
+      "materials": {
+        "title": "Import materiallar",
+        "desc": "Matolar va to‘ldiruvchilar Ispaniya, Turkiya va Rossiyadan, prujinalar esa Xitoydagi ishonchli hamkordan."
+      },
+      "fast": {
+        "title": "Tez tayyorlanadi",
+        "desc": "Ko‘pchilik buyurtmalar 1–2 kun ichida tayyor bo‘ladi."
+      },
+      "delivery": {
+        "title": "Bepul yetkazib berish va o‘lchash",
+        "desc": "Yotoq o‘lchamini olish va shahar bo‘ylab yetkazib berish — mutlaqo bepul."
+      },
+      "warranty": {
+        "title": "10–20 yil kafolat",
+        "desc": "Uzoq umrli va sifatiga ishonchli mahsulotlar."
+      }
+    },
+    "showroom": {
+      "title": "Shourumimizga tashrif buyuring",
+      "desc": "Matraslarimiz qulayligini shaxsan his eting — Mirabad tumanidagi qulay shourumimizga marhamat.",
+      "button": "Xaritada ko‘rish"
+    }
+  },
+  "hero": {
+    "title": "Matraslar Uyi — Sizning uyqungizga munosib qulaylik",
+    "subtitle": "Yuqori sifatli import materiallardan tayyorlangan ortopedik va anatomik matraslar.",
+    "catalog": "Katalog",
+    "measure": "Bepul o‘lchov",
+    "fastTitle": "1–2 kunda tayyor",
+    "fastDesc": "Buyurtmalar tez ishlab chiqiladi",
+    "deliveryTitle": "Bepul yetkazib berish",
+    "deliveryDesc": "Shahar bo‘ylab yetkazib berish va o‘lchov — bepul",
+    "customTitle": "Individual tikuv",
+    "customDesc": "Krovatingiz o‘lchamiga mos matras tayyorlaymiz"
+  },
+  "about": {
+    "title": "2005-yildan beri — ishonchli sifat",
+    "description": "Biz import materiallardan matraslar ishlab chiqaramiz: Xitoydagi 20 yillik hamkorimizdan prujinali bloklar, shuningdek, Ispaniya, Turkiya va Rossiyadan matolar hamda to‘ldirgichlar. Mahsulotlarga 10 yildan 20 yilgacha kafolat beriladi.",
+    "button": "Batafsil ma’lumot",
+    "imageAlt": "Usta sifatli matras tikib yig‘moqda"
+  },
+
+  "types_title": "Matras turlari",
+
+  "types": {
+    "anatomic_title": "Anatomik matraslar",
+    "anatomic_desc": "Uxlash vaqtida tana tabiiy holatni egallashiga yordam beradi. Umurtqa pog'onasining barcha zonalarini qo‘llab-quvvatlaydi.",
+
+    "ortho_title": "Ortopedik matraslar",
+    "ortho_desc": "Bel og‘rig‘i bo‘lganlar uchun tavsiya qilinadi. Umurtqani mustahkam qo‘llab-quvvatlaydi.",
+
+    "sprless_title": "Bahorsiz matraslar",
+    "sprless_desc": "Jim, uzoq xizmat qiladi va allergiya chaqirmaydi. Qattiqroq yotishni yoqtiradiganlar uchun ideal.",
+
+    "kids_title": "Bolalar matraslari",
+    "kids_desc": "Yangi tug‘ilgan chaqaloqlar va bolalar uchun xavfsiz hamda ortopedik qulay matraslar."
+  },
+
+  "heroo": {
+    "catalog": "Katalog"
+  },
+
+  "products": {
+    "title": "Mahsulotlarimiz",
+    "memory": "Memory matraslar",
+    "orthopedic": "Ortopedik matraslar",
+    "kids": "Bolalar uchun matraslar",
+
+    "memory1": {
+      "name": "Memory Classic",
+      "desc": "Memory Foam qatlami bilan yumshoq va qulay matras. Tananing shaklini eslab, bosimni kamaytiradi.",
+      "modalText": "Ushbu matras yuqori sifatli Memory Foam texnologiyasi asosida ishlab chiqarilgan bo‘lib, tanaga moslashadi va umurtqa pog‘onasiga tushadigan yukni kamaytiradi.",
+      "btn": "Buyurtma berish"
+    },
+
+    "memory2": {
+      "name": "Memory Airflow",
+      "desc": "Havo o‘tkazuvchi texnologiya tufayli salqin uyquni ta’minlaydi. Issiqlikni ushlab qolmaydi.",
+      "modalText": "Airflow texnologiyasi havo aylanishini yaxshilaydi va hatto issiq ob-havoda ham qulay uyquni ta’minlaydi.",
+      "btn": "Buyurtma berish"
+    },
+
+    "memory3": {
+      "name": "Memory Soft Touch",
+      "desc": "Juda yumshoq qoplama bosimni teng taqsimlaydi va yelka hamda beldagi yukni kamaytiradi.",
+      "modalText": "Memory Soft Touch yumshoq tuzilmasi tanani mayin qo‘llab-quvvatlaydi va qulay uyqu beradi.",
+      "btn": "Buyurtma berish"
+    },
+
+    "memory4": {
+      "name": "Memory Premium",
+      "desc": "Yuqori zichlikdagi Memory Foam — maksimal qulaylik va uzoq xizmat muddati.",
+      "modalText": "Premium toifadagi ushbu matras ideal tayanch va uzoq muddatli foydalanishni ta’minlaydi.",
+      "btn": "Buyurtma berish"
+    },
+
+    "ortho1": {
+      "name": "Ortho Hard",
+      "desc": "Qattiq ortopedik asos umurtqa pog‘onasini to‘g‘ri holatda ushlab turadi.",
+      "modalText": "Qattiq ortopedik konstruktsiya bel va umurtqa pog‘onasi uchun to‘g‘ri tayanch beradi.",
+      "btn": "Buyurtma berish"
+    },
+
+    "ortho2": {
+      "name": "Ortho Pro",
+      "desc": "Vazni katta insonlar uchun mustahkamlangan asos. Yukni teng taqsimlaydi.",
+      "modalText": "Kuchaytirilgan ortopedik asosi tufayli katta yuklamalarda ham qulaylikni saqlaydi.",
+      "btn": "Buyurtma berish"
+    },
+
+    "ortho3": {
+      "name": "Ortho Soft",
+      "desc": "Yumshoqroq ortopedik qatlam. Bel uchun foydali qo‘llab-quvvatlash.",
+      "modalText": "Yumshoq ortopedik tayanch bilan sog‘lom va qulay uyquni ta’minlaydi.",
+      "btn": "Buyurtma berish"
+    },
+
+    "ortho4": {
+      "name": "Ortho Premium",
+      "desc": "Premium ortopedik materiallar mustahkamlik va uzoq xizmatni ta’minlaydi.",
+      "modalText": "Yuqori sifatli ortopedik materiallardan tayyorlangan ushbu matras uzoq yillar xizmat qiladi.",
+      "btn": "Buyurtma berish"
+    },
+
+    "kids1": {
+      "name": "Kids Comfort",
+      "desc": "Allergiyaga qarshi, bolalar uchun xavfsiz qoplama.",
+      "modalText": "Gipoallergen materiallardan tayyorlangan bo‘lib, bolalar salomatligi uchun mutlaqo xavfsiz.",
+      "btn": "Buyurtma berish"
+    },
+
+    "kids2": {
+      "name": "Kids Soft",
+      "desc": "O‘smirlar uchun juda yumshoq va qulay variant.",
+      "modalText": "Kids Soft modeli yumshoqlik va qulaylikni ta’minlab, o‘smirlar uchun juda mos keladi.",
+      "btn": "Buyurtma berish"
+    },
+
+    "kids3": {
+      "name": "Kids Hard",
+      "desc": "Qattiq qatlam — umurtqa pog‘onasining to‘g‘ri rivojlanishi uchun to‘g‘ri tanlov.",
+      "modalText": "Kids Hard modeli umurtqa pog‘onasining sog‘lom rivojlanishini ta’minlaydi.",
+      "btn": "Buyurtma berish"
+    },
+
+    "kids4": {
+      "name": "Kids Premium",
+      "desc": "Havo o‘tkazuvchi materiallar qizib ketishni oldini oladi va sog‘lom uyqu beradi.",
+      "modalText": "Bolalar uchun premium matras — qulaylik, salomatlik va havoning yaxshi aylanishi.",
+      "btn": "Buyurtma berish"
+    }
+  },
+
+  "card": {
+    "details": "Batafsil ko‘rish"
+  },
+
+  "choose": {
+    "title": "Matrasni qanday tanlash: sog‘lom va qulay uyqu uchun to‘liq qo‘llanma",
+    "subtitle": "To‘g‘ri tanlangan matras sog‘lom uyqu va umurtqa salomatligining asosi hisoblanadi.",
+    "whyTitle": "Nega matras tanlovi muhim",
+    "whyText": "Noto‘g‘ri matras bel og‘rig‘i, charchoq va uyqusizlikka olib kelishi mumkin.",
+    "problems": [
+      "Bel va bo‘yin og‘riqlari",
+      "Qo‘l va oyoqlarning uvishishi",
+      "Doimiy charchoq",
+      "Uyqu buzilishi"
+    ],
+    "typesTitle": "Matras turlari",
+    "spring": {
+      "title": "Prujinali matraslar",
+      "text": "Yaxshi ventilyatsiya va elastik tayanch beradi.",
+      "list": [
+        "Bog‘langan prujinalar",
+        "Mustaqil prujinalar — juftliklar uchun qulay"
+      ]
+    },
+    "nospring": {
+      "title": "Prujinasiz matraslar",
+      "text": "Shovqinsiz, allergiyaga qarshi va qulay."
+    },
+    "firmnessTitle": "Matras qattiqligini tanlash",
+    "soft": {
+      "title": "Yumshoq",
+      "text": "Yengil vaznli odamlar uchun."
+    },
+    "medium": {
+      "title": "O‘rtacha",
+      "text": "Ko‘pchilik uchun mos variant."
+    },
+    "hard": {
+      "title": "Qattiq",
+      "text": "Bel muammolari va og‘ir vazn uchun."
+    },
+    "fillersTitle": "Matras to‘ldiruvchilari",
+    "fillers": [
+      "Memory Foam — tana shakliga moslashadi",
+      "Kokos tolasi — mustahkamlik beradi",
+      "Lateks — elastik va allergiyasiz",
+      "Hollofayber — uzoq xizmat qiladi"
+    ],
+    "ctaTitle": "Nega bizdan xarid qilish kerak",
+    "ctaText": "Mutaxassislarimiz sizga eng mos matrasni tanlab beradi.",
+    "ctaBtn": "Maslahat olish"
+  }
+}
