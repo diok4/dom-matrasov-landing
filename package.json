@@ -14,7 +14,7 @@
     "express": "^5.1.0",
     "framer-motion": "^12.23.25",
     "lucide-react": "^0.553.0",
-    "next": "^15.5.11",
+    "next": "15.5.11",
     "node-fetch": "^3.3.2",
     "react": "^19.2.0",
     "react-dom": "^19.2.0",
@@ -29,11 +29,13 @@
     "@types/react": "^19.2.2",
     "@types/react-dom": "^19.2.2",
     "eslint": "^9.39.1",
-    "eslint-config-next": "^16.1.6",
+    "eslint-config-next": "15.5.11",
     "eslint-plugin-react-hooks": "^5.2.0",
-    "eslint-plugin-react-refresh": "^0.4.24",
     "globals": "^16.5.0",
     "postcss": "^8.4.38"
+  },
+  "overrides": {
+    "@next/swc": "15.5.11"
   },
   "description": "This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.",
   "main": "eslint.config.js",
